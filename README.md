@@ -263,7 +263,7 @@ Provided end-user technical support and maintained enterprise IT infrastructure 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kabelo-manala-025ab4257/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/kabelo-manala-025ab4257/))
 
 📧 nranape@gmail.com
 
