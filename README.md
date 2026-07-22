@@ -17,7 +17,7 @@ Currently expanding my knowledge in C#, .NET, SQL Server and full-stack web deve
 - 🌱 Currently learning **ASP.NET Core**, **C#**, and **Advanced SQL Server**
 - 🔭 Currently working on a **FTSEZ Skills Development Portal**
 - 💻 Interested in Web Development, Database Design, Cloud Computing and Cybersecurity
-- 🤝 Open to Junior Software Developer opportunities
+- 🤝 Open to Software Developer opportunities
 - 📫 Reach me: **nranape@gmail.com**
 
 ---
