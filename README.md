@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Cheledi Kabelo Manala 👋</h1>
+<h1 align="center">Welcome to my profile, I'm Cheledi Kabelo Manala 👋</h1>
 
 <h3 align="center">
 Software Developer | PHP | C# | MySQL | JavaScript | HTML | Linux
