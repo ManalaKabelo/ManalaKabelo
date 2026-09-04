@@ -62,6 +62,8 @@ A comprehensive web-based Skills Development Portal developed using PHP and MySQ
 - Reporting Module
 - Responsive Design
 
+https://skills.ftsez.co.za/
+
 **Technologies**
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
@@ -93,6 +95,8 @@ A complete RSVP Management System developed for the AI Limpopo Roundtable Event.
 - Search Registrations
 - Filter by Sector
 - Export Reports
+
+https://ailimpopo.ledaapps.co.za/
 
 **Technologies**
 
